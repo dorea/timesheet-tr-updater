@@ -4,8 +4,8 @@
   "pub_date": "2024-10-12T12:00:00.00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "123",
-      "url": "123"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVTF1MFE3MHdDQ1ZuTmxtaDRuWHhHYXJiejQrRnFEU0Z0dUNrejg5UjhEbWx0Q0F6bnlQV0JwM0x2czZVMWFsMHJtNkU0bUhYWWlzR0xjajBvd1hLTk5qd1BRLzZGWXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NTY3NjE5CWZpbGU6dGltZXNoZWV0LXRyXzEuMC43X3g2NC1zZXR1cC5leGUKNUp5b0h4SnZ2cjJMTFdaQ1ZTd3lUeEh4MGlyKzRCQ1NTQ2RVOXg2TjV6KzF6WlNXYkdWdVlNK0JNaytKR2x2dXJBcER6KzdvaDdiblBLWHdOTGZKREE9PQo=",
+      "url": "https://github.com/dorea/timesheet-tr-updater/releases/download/1.0.7/timesheet-tr_1.0.7_x64-setup.exe"
     }
   }
 }
